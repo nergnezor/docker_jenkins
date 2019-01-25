@@ -1,0 +1,5 @@
+git
+matrix-auth
+workflow-aggregator
+docker-workflow 
+blueocean:1.10.1
